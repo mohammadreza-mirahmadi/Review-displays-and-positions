@@ -1,0 +1,26 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body {
+  background-color: rgb(4, 4, 67);
+}
+.moon {
+  width: 12rem;
+  height: 12rem;
+  border-radius: 100%;
+  background-color: rgb(206, 206, 145);
+  position: relative;
+  top: 40vh;
+  right: -40vw;
+}
+.moon-cover {
+  width: 12rem;
+  height: 12rem;
+  border-radius: 100%;
+  background-color: rgb(4, 4, 67);
+  position: absolute;
+  top: -1rem;
+  left: -1rem;
+}
