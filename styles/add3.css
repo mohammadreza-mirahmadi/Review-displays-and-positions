@@ -1,0 +1,12 @@
+.nav-bar {
+  position: sticky;
+  top: 0;
+  height: 2rem;
+  padding: 0.5rem 0.2rem 0 0.6rem;
+  font-size: 1.2rem;
+  background-color: aqua;
+}
+.content {
+  height: 80rem;
+  background-color: rgba(128, 128, 128, 0.765);
+}
