@@ -1,0 +1,31 @@
+.parent {
+  position: relative;
+  width: 19rem;
+  height: 19rem;
+  border: 0.2rem solid black;
+}
+.child {
+  width: 4rem;
+  height: 4rem;
+  background-color: aqua;
+}
+.child-1 {
+  position: absolute;
+  top: 1rem;
+  left: 1rem;
+}
+.child-2 {
+  position: absolute;
+  top: 1rem;
+  right: 1rem;
+}
+.child-3 {
+  position: absolute;
+  bottom: 1rem;
+  left: 1rem;
+}
+.child-4 {
+  position: absolute;
+  bottom: 1rem;
+  right: 1rem;
+}
