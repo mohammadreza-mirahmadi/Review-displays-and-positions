@@ -1,0 +1,13 @@
+.parent {
+  width: 22rem;
+  height: 22rem;
+  border: 2px solid black;
+  position: relative;
+}
+.child {
+  padding: 1rem;
+  background-color: aqua;
+  position: absolute;
+  top: 6rem;
+  right: 6rem;
+}
