@@ -1,0 +1,13 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.box {
+  width: 9rem;
+  height: 10vh;
+  padding: 0 0.9rem;
+  line-height: 10vh;
+  background-color: aqua;
+  margin: 45vh auto;
+}
