@@ -1,0 +1,24 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  outline: none;
+}
+.container {
+  width: 26rem;
+  height: 26rem;
+  background-color: antiquewhite;
+  margin: 3rem auto;
+  border: 0.2rem solid rgb(154, 202, 227);
+}
+.box {
+  width: 5rem;
+  height: 5rem;
+  display: inline-block;
+}
+.black {
+  background-color: black;
+}
+.gray {
+  background-color: gray;
+}
