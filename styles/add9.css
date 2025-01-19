@@ -7,14 +7,12 @@
   width: 20rem;
   height: 17.8rem;
   margin: 20vh auto;
-  /* position: relative; */
 }
 .box {
   display: inline-block;
   width: 2rem;
   height: 2rem;
   background-color: red;
-  /* position: absolute; */
 }
 .white {
   background-color: white;
