@@ -5,8 +5,10 @@
   outline: none;
 }
 .container {
-  width: 26rem;
-  height: 26rem;
+  box-sizing: content-box;
+  font-size: 0;
+  width: 25rem;
+  height: 25rem;
   background-color: antiquewhite;
   margin: 3rem auto;
   border: 0.2rem solid rgb(154, 202, 227);
